@@ -1,0 +1,28 @@
+/*style for the nav*/
+.nav-link {
+font-family: sans-serif;
+color: black;
+}
+.navbar {
+background-color: white;
+}
+
+
+/*styling the content*/
+h2 {
+color: rgb(36, 167, 75);
+}
+
+.imgstyle {
+width: 500px;
+height: 500px;
+}
+
+.smargintop{
+margin-top: 50px;
+}
+
+
+h3 {
+color:  rgb(36, 167, 75);
+}
